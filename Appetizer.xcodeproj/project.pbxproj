@@ -14,6 +14,7 @@
 		5C7A7594261CA3CC00ABCA49 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A7593261CA3CC00ABCA49 /* AccountView.swift */; };
 		5C7A7598261CA41100ABCA49 /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A7597261CA41100ABCA49 /* AppetizerListView.swift */; };
 		5C7A759D261CA4C400ABCA49 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A759C261CA4C400ABCA49 /* OrderView.swift */; };
+		5C7A75A2261CBCD400ABCA49 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5C7A7593261CA3CC00ABCA49 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		5C7A7597261CA41100ABCA49 /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		5C7A759C261CA4C400ABCA49 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5C7A7593261CA3CC00ABCA49 /* AccountView.swift */,
 				5C7A7597261CA41100ABCA49 /* AppetizerListView.swift */,
 				5C7A759C261CA4C400ABCA49 /* OrderView.swift */,
+				5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */,
 				5C7A7586261C9FAC00ABCA49 /* Assets.xcassets */,
 				5C7A758B261C9FAC00ABCA49 /* Info.plist */,
 				5C7A7588261C9FAC00ABCA49 /* Preview Content */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C7A75A2261CBCD400ABCA49 /* Appetizer.swift in Sources */,
 				5C7A7594261CA3CC00ABCA49 /* AccountView.swift in Sources */,
 				5C7A7598261CA41100ABCA49 /* AppetizerListView.swift in Sources */,
 				5C7A7585261C9FA800ABCA49 /* AppetizerTabView.swift in Sources */,
