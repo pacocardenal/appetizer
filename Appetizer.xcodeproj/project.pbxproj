@@ -10,6 +10,7 @@
 		5C4E70C9261E01BC002486F0 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70C8261E01BC002486F0 /* AppetizerListCell.swift */; };
 		5C4E70CD261E0422002486F0 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70CC261E0422002486F0 /* APError.swift */; };
 		5C4E70D0261E0452002486F0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70CF261E0452002486F0 /* NetworkManager.swift */; };
+		5C4E70D3261E1441002486F0 /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70D2261E1441002486F0 /* AppetizerListViewModel.swift */; };
 		5C7A7583261C9FA800ABCA49 /* AppetizerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A7582261C9FA800ABCA49 /* AppetizerApp.swift */; };
 		5C7A7585261C9FA800ABCA49 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A7584261C9FA800ABCA49 /* AppetizerTabView.swift */; };
 		5C7A7587261C9FAC00ABCA49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C7A7586261C9FAC00ABCA49 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		5C4E70C8261E01BC002486F0 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		5C4E70CC261E0422002486F0 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 		5C4E70CF261E0452002486F0 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		5C4E70D2261E1441002486F0 /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
 		5C7A757F261C9FA800ABCA49 /* Appetizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C7A7582261C9FA800ABCA49 /* AppetizerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerApp.swift; sourceTree = "<group>"; };
 		5C7A7584261C9FA800ABCA49 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				5C7A758B261C9FAC00ABCA49 /* Info.plist */,
 				5C7A7588261C9FAC00ABCA49 /* Preview Content */,
 				5C4E70CF261E0452002486F0 /* NetworkManager.swift */,
+				5C4E70D2261E1441002486F0 /* AppetizerListViewModel.swift */,
 			);
 			path = Appetizer;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				5C4E70D0261E0452002486F0 /* NetworkManager.swift in Sources */,
 				5C7A75A2261CBCD400ABCA49 /* Appetizer.swift in Sources */,
 				5C4E70C9261E01BC002486F0 /* AppetizerListCell.swift in Sources */,
+				5C4E70D3261E1441002486F0 /* AppetizerListViewModel.swift in Sources */,
 				5C7A7594261CA3CC00ABCA49 /* AccountView.swift in Sources */,
 				5C4E70CD261E0422002486F0 /* APError.swift in Sources */,
 				5C7A7598261CA41100ABCA49 /* AppetizerListView.swift in Sources */,
