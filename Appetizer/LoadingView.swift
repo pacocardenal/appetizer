@@ -11,7 +11,7 @@ struct ActivityIndicator: UIViewRepresentable {
     
     func makeUIView(context: Context) -> UIActivityIndicatorView {
         let activityIndicatorView = UIActivityIndicatorView(style: .large)
-        activityIndicatorView.color = UIColor(named: "brandPrimary")
+        activityIndicatorView.color = UIColor.brandPrimary
         activityIndicatorView.startAnimating()
         return activityIndicatorView
     }
@@ -20,4 +20,15 @@ struct ActivityIndicator: UIViewRepresentable {
         // Nothing to do
     }
     
+}
+
+struct LoadingView: View {
+    var body: some View {
+        ZStack {
+            Color(.systemBackground)
+                .edgesIgnoringSafeArea(.all)
+            
+            ActivityIndicator()
+        }
+    }
 }
