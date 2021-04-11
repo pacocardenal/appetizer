@@ -64,6 +64,7 @@
 			children = (
 				5C7A7597261CA41100ABCA49 /* AppetizerListView.swift */,
 				5C4E70D2261E1441002486F0 /* AppetizerListViewModel.swift */,
+				5C075C472622E66300B36317 /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -133,14 +134,6 @@
 			path = Image;
 			sourceTree = "<group>";
 		};
-		5C075C462622E63600B36317 /* AppetizerDetailView */ = {
-			isa = PBXGroup;
-			children = (
-				5C075C472622E66300B36317 /* AppetizerDetailView.swift */,
-			);
-			path = AppetizerDetailView;
-			sourceTree = "<group>";
-		};
 		5C6B6D63262212A600D848A6 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -176,7 +169,6 @@
 				5C075C3B2622E34200B36317 /* AppetizerListView */,
 				5C075C3D2622E36F00B36317 /* OrderView */,
 				5C075C3C2622E36200B36317 /* AccountView */,
-				5C075C462622E63600B36317 /* AppetizerDetailView */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
