@@ -10,6 +10,7 @@
 		5C075C482622E66300B36317 /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C075C472622E66300B36317 /* AppetizerDetailView.swift */; };
 		5C0AAB612625D55200663741 /* APButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C0AAB602625D55200663741 /* APButton.swift */; };
 		5C0AAB652625D64900663741 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C0AAB642625D64900663741 /* XDismissButton.swift */; };
+		5C18D735262B04A9001788D6 /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C18D734262B04A9001788D6 /* AccountViewModel.swift */; };
 		5C4E70C9261E01BC002486F0 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70C8261E01BC002486F0 /* AppetizerListCell.swift */; };
 		5C4E70CD261E0422002486F0 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70CC261E0422002486F0 /* APError.swift */; };
 		5C4E70D0261E0452002486F0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4E70CF261E0452002486F0 /* NetworkManager.swift */; };
@@ -33,6 +34,7 @@
 		5C075C472622E66300B36317 /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
 		5C0AAB602625D55200663741 /* APButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APButton.swift; sourceTree = "<group>"; };
 		5C0AAB642625D64900663741 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
+		5C18D734262B04A9001788D6 /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		5C4E70C8261E01BC002486F0 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		5C4E70CC261E0422002486F0 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 		5C4E70CF261E0452002486F0 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				5C7A7593261CA3CC00ABCA49 /* AccountView.swift */,
+				5C18D734262B04A9001788D6 /* AccountViewModel.swift */,
 			);
 			path = AccountView;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				5C6131FB26209A8F00A596B8 /* Color+Ext.swift in Sources */,
 				5C0AAB612625D55200663741 /* APButton.swift in Sources */,
 				5C4E70CD261E0422002486F0 /* APError.swift in Sources */,
+				5C18D735262B04A9001788D6 /* AccountViewModel.swift in Sources */,
 				5C7A7598261CA41100ABCA49 /* AppetizerListView.swift in Sources */,
 				5C7A7585261C9FA800ABCA49 /* AppetizerTabView.swift in Sources */,
 				5C6132032620A70B00A596B8 /* RemoteImage.swift in Sources */,
