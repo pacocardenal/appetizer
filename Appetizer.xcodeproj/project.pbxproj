@@ -30,6 +30,7 @@
 		5C7A759D261CA4C400ABCA49 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A759C261CA4C400ABCA49 /* OrderView.swift */; };
 		5C7A75A2261CBCD400ABCA49 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */; };
 		5CEB28422629E1B100EDCB62 /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEB28412629E1B100EDCB62 /* String+Ext.swift */; };
+		5CF1A40E263DB0D100CF1BE5 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CF1A40D263DB0D100CF1BE5 /* Order.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		5C7A759C261CA4C400ABCA49 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		5CEB28412629E1B100EDCB62 /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
+		5CF1A40D263DB0D100CF1BE5 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 			children = (
 				5C7A75A1261CBCD400ABCA49 /* Appetizer.swift */,
 				5C338087262C71500086CD5E /* User.swift */,
+				5CF1A40D263DB0D100CF1BE5 /* Order.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 				5C4E70D0261E0452002486F0 /* NetworkManager.swift in Sources */,
 				5C7A75A2261CBCD400ABCA49 /* Appetizer.swift in Sources */,
 				5C0AAB652625D64900663741 /* XDismissButton.swift in Sources */,
+				5CF1A40E263DB0D100CF1BE5 /* Order.swift in Sources */,
 				5C4E70C9261E01BC002486F0 /* AppetizerListCell.swift in Sources */,
 				5C4E70D3261E1441002486F0 /* AppetizerListViewModel.swift in Sources */,
 				5C7A7594261CA3CC00ABCA49 /* AccountView.swift in Sources */,
